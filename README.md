@@ -1,4 +1,4 @@
-[![Hits](http://hits.dwyl.com/GabziDev/GabziDev.svg)](http://hits.dwyl.com/GabziDev/GabziDev)
+[![Visite](http://hits.dwyl.com/GabziDev/GabziDev.svg)](http://hits.dwyl.com/GabziDev/GabziDev)
 
 <p href="GabziDev" align="center">
     <img alt="" src=https://lanyard.cnrad.dev/api/997512351760789507/>
