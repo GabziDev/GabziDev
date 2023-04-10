@@ -4,8 +4,7 @@ Projet Minecraft :
 - SkycraftPVP ⚔️
 
 
-### HTML, CSS, JAVASCRIPT, JAVA, PHP
+### HTML, CSS, JAVASCRIPT, JAVA, PYTHON, PHP
 ### Linux, Proxmox, Docker
 ### MongoDB, MYSQL
-
-
+### NodeJS, NGINX
