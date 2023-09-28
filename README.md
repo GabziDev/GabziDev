@@ -12,7 +12,6 @@ Projet Minecraft :
 ![JavaScript](https://img.icons8.com/color/48/null/javascript--v1.png)
 ![Python](https://img.icons8.com/color/48/null/python--v1.png)
 ![Git](https://img.icons8.com/color/48/null/git.png)
-![MySQL](https://img.icons8.com/color/48/null/mongodb-logo.png)
 ![MongoDB](https://img.icons8.com/color/48/null/mongodb.png)
 ![Redis](https://img.icons8.com/color/48/null/redis.png)
 ![MySQL](https://img.icons8.com/color/48/null/mysql-logo.png)
