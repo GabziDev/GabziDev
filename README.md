@@ -7,7 +7,6 @@
 ![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png)
 ![C#](https://img.icons8.com/color/48/null/c-sharp-logo)
 ![JavaScript](https://img.icons8.com/color/48/null/javascript--v1.png)
-![Python](https://img.icons8.com/color/48/null/python--v1.png)
 ![Git](https://img.icons8.com/color/48/null/git.png)
 ![MongoDB](https://img.icons8.com/color/48/null/mongodb.png)
 ![Redis](https://img.icons8.com/color/48/null/redis.png)
