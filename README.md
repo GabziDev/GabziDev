@@ -1,8 +1,5 @@
 [![hits](http://hits.dwyl.com/GabziDev/GabziDev.svg)](http://hits.dwyl.com/GabziDev/GabziDev)
 
-Projet Minecraft :
-- SkycraftPVP ⚔️
-
 # Langage de programmation & Outils
 ![HTML5](https://img.icons8.com/color/48/null/html-5--v1.png)
 ![PHP](https://img.icons8.com/stickers/48/php-server.png)
