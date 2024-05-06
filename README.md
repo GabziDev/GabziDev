@@ -1,5 +1,4 @@
 [![hits](http://hits.dwyl.com/GabziDev/GabziDev.svg)](http://hits.dwyl.com/GabziDev/GabziDev)
--> (14.12.2023) 87146
 
 Projet Minecraft :
 - SkycraftPVP ⚔️
