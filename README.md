@@ -13,6 +13,8 @@
 ![CSS3](https://img.icons8.com/color/48/null/css3.png)
 ![Java](https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png)
 ![C#](https://img.icons8.com/color/48/null/c-sharp-logo)
+![C](https://img.icons8.com/?size=48&id=40670&format=png&color=000000)
+![C++](https://img.icons8.com/?size=48&id=40669&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/color/48/null/javascript--v1.png)
 ![Git](https://img.icons8.com/color/48/null/git.png)
 ![MongoDB](https://img.icons8.com/color/48/null/mongodb.png)
