@@ -31,4 +31,5 @@
 ![VS](https://img.icons8.com/color/48/null/visual-studio)
 ![VSCode](https://img.icons8.com/color/48/null/visual-studio-code-2019)
 
+<br clear="both">
 <img src="https://raw.githubusercontent.com/GabziDev/GabziDev/output/snake.svg" alt="Snake animation" />
