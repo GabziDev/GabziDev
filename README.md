@@ -1,4 +1,4 @@
-[![hits](http://hits.dwyl.com/GabziDev/GabziDev.svg)](http://hits.dwyl.com/GabziDev/GabziDev)
+<!--[![hits](http://hits.dwyl.com/GabziDev/GabziDev.svg)](http://hits.dwyl.com/GabziDev/GabziDev)-->
 
 # Website
 - https://gabzdev.ch/
@@ -30,3 +30,5 @@
 ![Webstorm](https://img.icons8.com/color/48/null/webstorm)
 ![VS](https://img.icons8.com/color/48/null/visual-studio)
 ![VSCode](https://img.icons8.com/color/48/null/visual-studio-code-2019)
+
+<img src="https://raw.githubusercontent.com/GabziDev/GabziDev/output/snake.svg" alt="Snake animation" />
