@@ -1,4 +1,5 @@
 <!--[![hits](http://hits.dwyl.com/GabziDev/GabziDev.svg)](http://hits.dwyl.com/GabziDev/GabziDev)-->
+<img src="./Banner.png">
 
 # Website
 - https://gabzdev.ch/
